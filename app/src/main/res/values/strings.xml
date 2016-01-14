@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="True_button">True</string>
+    <string name="False_button">False</string>
+    <string name="incorrect_toast">Incorrect-O</string>
+    <string name="correct_toast">correct-O</string>
+    <string name="question_text">Is the Earth round?</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+
+
+    //Questions
+    <string name="chicken">Chicken tastes like everything but chicken</string>
+    <string name="beef">The beef does not taste like chicken</string>
+    <string name="bassist">Bassists are useful in bands.</string>
+    <string name="rabbit">You the waskily wabbit</string>
+
+    //SecondActivity Strings
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is Decent</string>
+    <string name="title_activity_cheat">Cheat</string>
+</resources>
+
